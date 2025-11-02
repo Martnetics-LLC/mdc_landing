@@ -17,7 +17,7 @@ function Contact() {
               <img src="/location-dot-solid.svg" className="w-5 h-5" />
               <span className="text-base">MAIN CORPORATE OFFICE</span>
             </div>
-            <span className="text-foreground">525-A, Service Road North, F10/2 Islamabad</span>
+            <span className="text-foreground">No 39, Street 11, Block B, Gulberg Greens Islamabad, ICT, Pakistan</span>
           </div>
           <div className="flex flex-col gap-2">
             <div className="flex gap-2">

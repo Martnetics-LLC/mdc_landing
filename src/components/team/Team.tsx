@@ -27,11 +27,6 @@ const teamMembers = [
     image: "/Muhammad Usman Shah.png",
   },
   {
-    name: "Noor Abbas Mirza",
-    role: "Deputy Director Aerospace & Defense Projects",
-    image: "/Noor Abbas Mirza.png",
-  },
-  {
     name: "Ismail Akram",
     role: "Manager Operations",
     image: "/Ismail Akram.png",
