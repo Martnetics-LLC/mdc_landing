@@ -33,11 +33,7 @@ function Navbar() {
         { title: "Innovation Center", value: "item-5" },
       ],
     },
-    {
-      title: "Our Team",
-      link: "our-team",
-    },
-    {
+      {
       title: "Careers",
       link: "careers",
     },
